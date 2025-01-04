@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Timmothy92k</h1>
+<h1 align="center">Hi 👋, I'm Timmothy92k aka Igor Josić</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer specializing in blockchain technologies and Web3 development, with a particular focus on Solana.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timmothy92k&label=Profile%20views&color=0e75b6&style=flat" alt="timmothy92k" /> </p>
